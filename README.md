@@ -1,2 +1,8 @@
 # Digital-Chat-Library
-A chat based on NLP library management system built in Java using springboot and maven
+
+## Key Features
+- **NLP Chat Interface**: Enables intuitive user interaction through natural language processing.
+- **Java and Spring Boot**: Offers robust backend functionalities.
+- **OpenAI Integration**: Python script (`main.py`) integrates with OpenAI for advanced NLP features.
+- **Maven for Dependency Management**: Simplifies building and managing project dependencies.
+
